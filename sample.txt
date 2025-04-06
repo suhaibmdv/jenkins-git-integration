@@ -1,2 +1,2 @@
 this is a sample file to test git integration
-with jenkins
+with jenkinsUpdated content
